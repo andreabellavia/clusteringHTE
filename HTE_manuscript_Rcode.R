@@ -1,7 +1,7 @@
 
 #####################
 #####################
-## ENAR 2024. Ran X et al.
+## Bellavia A et al. Manuscript under review.
 ## R code to conduct cluster-based (phenotype-based) HTE assessment
 #####################
 #####################
