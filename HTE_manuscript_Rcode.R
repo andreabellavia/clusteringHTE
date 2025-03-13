@@ -30,8 +30,8 @@ covariates<-data[,c(1:7)]
 ## Here comparing results with 3, 4, and 5 cluster, and conducting variable selection
 
 res_3 <- VarSelCluster(covariates, 3, nbcores = 2, initModel=40, crit.varsel = "BIC")
-res_4 <- VarSelCluster(covariates, 3, nbcores = 2, initModel=40, crit.varsel = "BIC")
-res_5 <- VarSelCluster(covariates, 3, nbcores = 2, initModel=40, crit.varsel = "BIC")
+res_4 <- VarSelCluster(covariates, 4, nbcores = 2, initModel=40, crit.varsel = "BIC")
+res_5 <- VarSelCluster(covariates, 5, nbcores = 2, initModel=40, crit.varsel = "BIC")
 
 ## Using BIC to compare models
 
