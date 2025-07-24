@@ -1,5 +1,5 @@
 # Unsupervised Clustering Approach to Assess Heterogeneity of Treatment Effects Across Patient Phenotypes in Randomized Clinical Trials
 
-Manuscript under review
+Accompanying software material for the [2024 manuscript published Contemporary Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/39675417/)
 
-- <a href="HTE_manuscript_Rcode.R">Accompanying R material </a>  
+- <a href="HTE_manuscript_Rcode.R">R code </a>  
